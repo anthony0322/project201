@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Home</title>
-<link rel='stylesheet' type='text/css' href='../assets/css/bootstrap/bootstrap.css'>
+	<title></title>
+	<link rel='stylesheet' type='text/css' href='../assets/css/bootstrap/bootstrap.css'>
 <link rel='stylesheet' type='text/css' href='../assets/css/bootstrap/bootstrap.min.css'>
 <link rel='stylesheet' type='text/css' href='../assets/css/bootstrap/font.css'>
 <link rel='stylesheet' type='text/css' href='../assets/css/bootstrap/font-second.css'>
@@ -13,17 +13,7 @@
 <script src="../assets/js/bootstrap.min.js"></script>
 </head>
 <body>
-	<?php include '../assets/include/navbar.php' ?>
-	<div class=container">
-		<div class="row">
-			<div class="col-md-8">
-				<h1>welcome</h1>
-			</div>
-			<div class="col-md-4">
-				<?php include '../assets/include/sidebar.php' ?>
-			</div>
-		</div>
-		
-	</div>
+	<h3>Sidebar</h3>
+	<p>this is the sidebar</p>
 </body>
 </html>
