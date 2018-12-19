@@ -146,3 +146,8 @@ input::-webkit-input-placeholder {
 	font-size: 11px;
 	text-align: center;
 }
+
+.form-div{
+	
+	margin-top: 5%;
+}
