@@ -24,7 +24,7 @@
 
 <div class="container">
 	<div class="row">
-		<div class="bg-black">
+		<div class="bg-black" >
 			
 			<div class="col-md-12 marginTop">
 				<div class="textAnim">

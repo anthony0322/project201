@@ -15,10 +15,10 @@
         <div class="dropdown">
     <button class="btn btn-primary dropdown-toggle navbar-toggler navbar-toggler-right text-uppercase bg-primary text-white rounded"  type="button" data-toggle="dropdown">MENU
     <span class="caret"></span></button>
-    <ul class="dropdown-menu">
-      <li><a href="../view/home.php">HOME</a></li>
-      <li><a href="../view/about.php">ABOUT</a></li>
-      <li><a href="../view/contact.php">CONTACT</a></li>
+    <ul class="dropdown-menu"  style="background-color: #0e0124;">
+      <li style="margin-left: 30px;"><a href="../view/home.php">HOME</a></li>
+      <li style="margin-left: 30px;"><a href="../view/about.php">ABOUT</a></li>
+      <li style="margin-left: 30px;"><a href="../view/contact.php">CONTACT</a></li>
     </ul>
   </div>
         <div class="collapse navbar-collapse" id="navbarResponsive">
