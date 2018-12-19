@@ -148,6 +148,7 @@ input::-webkit-input-placeholder {
 }
 
 .form-div{
-	
+	width: 300px;
 	margin-top: 5%;
+	padding-left: 2%;
 }
