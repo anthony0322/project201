@@ -43,39 +43,3 @@ catch(PDOException $e)
     }
     }
 
-
- ?> = "CREATE TABLE messages (
-    id INT(6) UNSIGNED AUTO_INCREMENT, 
-    sender_name VARCHAR(200) NOT NULL,
-    email VARCHAR(50) NOT NULL,
-    message VARCHAR(255),
-    time_sent TIMESTAMP,
-    PRIMARY KEY(id)
-    )";
-    //use exec() because no results are returned
-    if($conn->exec($sql1)){
-    echo "<br>Table created error";
-    }
-    else{
-    echo "Table created successfully";
-    }
-    }
-    else{
-    	echo "Database exist!";
-    	try{
-$conn = new PDO(,$username,$pass);
-$conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
- 
-}
-
-catch(PDOException $e)
-    {
-
-    	echo "Connection failed: " . $e->getMessage();
-    	
-
-    }
-    }
-
-
- ?>
