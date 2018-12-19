@@ -27,7 +27,8 @@
 						foreach($messages as $message){
 							echo "<label class='form-control'>Name:".$message['sender_name']."
 							<br>Email:".$message['email']."
-							<br>Message:".$message['message']."</label>";
+							<br>Message:".$message['message']."
+							<br>Time sent:".date('M d, l | h:i:s', strtotime($message['time_sent']))."</label>";
 						
 						}
 					 ?>
