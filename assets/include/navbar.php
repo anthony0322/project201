@@ -1,14 +1,17 @@
- <!-- Navigation -->
- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
+<link rel='stylesheet' type='text/css' href='../assets/css/bootstrap/bootstrap.css'>
+<link rel='stylesheet' type='text/css' href='../assets/css/bootstrap/bootstrap.min.css'>
+<link rel='stylesheet' type='text/css' href='../assets/css/custom.css'>
+
+<script src="../assets/js/bootstrap.js"></script>
+<script src="../assets/js/bootstrap-bundle.js"></script>
+<script src="../assets/js/bootstrap.min.js"></script>
+ <!-- Navigation -->
+ 
     <nav class="navbar navbar-expand-lg bg-secondary text-uppercase" id="mainNav">
       <div class="container">
         <a class="navbar-brand js-scroll-trigger navbarcolor" href="#page-top">Project201</a>
-      <!--   <button class="navbar-toggler navbar-toggler-right text-uppercase bg-primary text-white rounded" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation" style="">
-          Menu
-          <i class="fas fa-bars"></i>
-        </button> -->
+
         <div class="dropdown">
     <button class="btn btn-primary dropdown-toggle navbar-toggler navbar-toggler-right text-uppercase bg-primary text-white rounded"  type="button" data-toggle="dropdown">MENU
     <span class="caret"></span></button>
