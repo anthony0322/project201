@@ -1,3 +1,4 @@
+<?php include '../assets/include/navbar.php'; ?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -13,6 +14,6 @@
 	<script src="../assets/js/bootstrap.min.js"></script>
 </head>
 <body>
-<?php include '../assets/include/navbar.php'; ?>
+
 </body>
 </html>
