@@ -23,7 +23,7 @@ if($conn->query('use project201') === false){
     // use exec() because no results are returned
     // $conn->exec($sql);
     // echo "Table MyGuests created successfully";
-    }
+ 
 
 
 $sql = "CREATE DATABASE project201";
