@@ -11,27 +11,17 @@
     <li class="animated zoomIn delayone">
       <div class="back"></div>
       <div class="icon">
-        <i class="fa fa-twitter"></i>
+        <i class="fa fa-github"></i>
       </div>
     </li>
     <li class="animated zoomIn delaytwo">
       <div class="back"></div>
       <div class="icon">
-        <i class="fa fa-linkedin"></i>
+        <i class="fa fa-instagram"></i>
       </div>
     </li>
-    <li class="animated zoomIn delaythree">
-      <div class="back"></div>
-      <div class="icon">
-        <i class="fa fa-youtube"></i>
-      </div>
-    </li>
-    <li class="animated zoomIn delayfour">
-      <div class="back"></div>
-      <div class="icon">
-        <i class="fa fa-pinterest-p"></i>
-      </div>
-    </li>
+    
+    
     <li class="animated zoomIn delayfive">
       <div class="back"></div>
       <div class="icon">
