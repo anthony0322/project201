@@ -3,6 +3,7 @@
 <html>
 <head>
 	<title>Contact</title>
+	<link rel="stylesheet" type="text/css" href="../assets/css/bootstrap/footer-css.css">
 		<link rel='stylesheet' type='text/css' href='../assets/css/bootstrap/bootstrap.css'>
 	<link rel='stylesheet' type='text/css' href='../assets/css/bootstrap/bootstrap.min.css'>
 	<link rel='stylesheet' type='text/css' href='../assets/css/bootstrap/font.css'>
@@ -36,7 +37,11 @@
 	<div class="col-lg-4">
 		
 	</div>
-
+<footer>
+	<?php 
+		include '../assets/include/footer.php';
+	 ?>
+</footer>
 
 </body>
 </html>
