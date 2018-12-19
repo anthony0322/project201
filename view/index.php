@@ -1,6 +1,5 @@
-<?php 
-include '../assets/include/navbar.php';
-?>
+
+<?php include '../assets/include/navbar.php';?>
 
 <!DOCTYPE html>
 <html>
@@ -20,11 +19,18 @@ include '../assets/include/navbar.php';
 
 </head>
 <body class="bg-image">	
-<div class="container ">
-	<div class="col-md-12" style="background: rgba(0,0,0,.5);
-	height: 500px;">
-			<span>WELCOME TO</span>
-			<span>PROJECT 201</span>
+
+<div class="container">
+	<div class="row">
+		<div class="bg-black">
+			
+			<div class="col-md-12 marginTop">
+				<div class="textAnim">
+					<span class="text1">WELCOME TO</span>
+					<span class="text2">PROJECT 201</span>
+				</div>
+			</div>
+		</div>
 	</div>
 
 
