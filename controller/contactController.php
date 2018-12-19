@@ -4,14 +4,15 @@ if(isset($_POST['send'])){
 }
 function insertMessage($name, $email, $message){
 include '../database/connection.php';
-
-$query = "INSERT INTO tblname (name, email, message) VALUES :name, :email, :message";
 $data =[
 	'name'=>$name,
 	'email'=>$email,
 	'message'=>$message
 ];
-$statement = $conn->prepare($sql);
+$query = "INSERT INTO messages (sender_name, email, message) VALUES (:name, :email, :message)";
+
+$statement = $conn->prepare($query);
+
 if($statement->execute($data)){
 	header("location: ../view/contact.php?msg=Message sent!");
 }
