@@ -1,5 +1,7 @@
 <?php 
-
+if(isset($_POST['send'])){
+	insertMessage($_POST['senderName'],$_POST['senderEmail'],$_POST['senderMessage']);
+}
 function insertMessage($name, $email, $message){
 include '../database/connection.php';
 
@@ -10,7 +12,9 @@ $data =[
 	'message'=>$message
 ];
 $statement = $conn->prepare($sql);
-$statement->execute($data);
+if($statement->execute($data)){
+	header("location: ../view/contact.php?msg=Message sent!");
+}
 
 }
 
