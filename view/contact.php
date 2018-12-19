@@ -17,21 +17,21 @@
 	
 	<div class="col-lg-12" align="center">
 		<div class="form-div">
-		<form>
+		<form method="POST" action="../controller/contactController.php">
 			
 				<div class="form-group" align="left">
 				    <label>Name</label>
-				    <input type="text" class="form-control"  aria-describedby="emailHelp" placeholder="Enter your name">
+				    <input type="text" class="form-control"  aria-describedby="emailHelp" placeholder="Enter your name" name="senderName">
 				  </div>
 				  <div class="form-group" align="left">
 				    <label>Email address</label>
-				    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+				    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" name="senderEmail">
 				  </div>
 				  <div class="form-group" align="left">
 				    <label for="exampleInputPassword1">Message</label>
-				    <textarea class="form-control" placeholder="message"></textarea>
+				    <textarea class="form-control" placeholder="message" name="senderMessage"></textarea>
 				  </div>
-				  <button type="submit" class="btn btn-primary">Send</button>
+				  <button type="submit" class="btn btn-primary" name="send">Send</button>
 				
 		  
 		</form>
