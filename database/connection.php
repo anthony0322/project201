@@ -5,6 +5,7 @@ $username = "root";
 $pass = "";
 $conn = new PDO($dsn,$username,$pass);
 
+<<<<<<< HEAD
 $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 if($conn->query('use project201') === false){
 	$sql = "CREATE DATABASE project201";
@@ -26,6 +27,8 @@ if($conn->query('use project201') === false){
  
 
 
+=======
+>>>>>>> f6d3ca72319a2ba99819e8dda92afa0a167f4d97
 $sql = "CREATE DATABASE project201";
     if($conn->exec($sql)){
     echo "Database created successfully";
@@ -50,11 +53,10 @@ $sql = "CREATE DATABASE project201";
     else{
     	echo "Database exist!";
     	try{
-$conn = new PDO("mysql:host=localhost;dbname=project201",$username,$pass);
+$conn = new PDO(,$username,$pass);
 $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
  
 }
-
 
 catch(PDOException $e)
     {
@@ -65,5 +67,5 @@ catch(PDOException $e)
     }
     }
 
-//comment
+
  ?>
