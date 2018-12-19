@@ -19,7 +19,16 @@ include '../assets/include/navbar.php';
 
 
 </head>
-<body>	
-<h1>Welcome to our site.</h1>
+<body class="bg-image">	
+<div class="container ">
+	<div class="col-md-12" style="background: rgba(0,0,0,.5);
+	height: 500px;">
+			<span>WELCOME TO</span>
+			<span>PROJECT 201</span>
+	</div>
+
+
+</div>
+
 </body>
 </html>
