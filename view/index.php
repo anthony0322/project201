@@ -5,6 +5,8 @@
 <html>
 <head>
 	<title>Home</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel='stylesheet' type='text/css' href='../assets/css/bootstrap/bootstrap.css'>
 <link rel='stylesheet' type='text/css' href='../assets/css/bootstrap/bootstrap.min.css'>
 <link rel='stylesheet' type='text/css' href='../assets/css/bootstrap/font.css'>
