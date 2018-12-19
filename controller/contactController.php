@@ -22,8 +22,8 @@ if($statement->execute($data)){
 function getMessage(&$messages){
 include '../database/connection.php';
 
-$query = "SELECT * FROM tblname";
-$statement = $conn->prepare($sql);
+$query = "SELECT * FROM messages";
+$statement = $conn->prepare($query);
 $statement->execute();
 $messages = $statement->fetchAll();
 

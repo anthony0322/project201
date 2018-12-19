@@ -18,7 +18,7 @@
 	<div class="col-lg-12" align="center">
 		<?php 
 		if(isset($_GET['msg'])){
-			echo "<p class='alert alert-success'>".$_GET['msg']."</p>";
+			echo "<br><p class='alert alert-success'>".$_GET['msg']."</p>";
 		} ?>
 		<div class="form-div">
 		<form method="POST" action="../controller/contactController.php">

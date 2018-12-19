@@ -26,8 +26,8 @@ $sql = "CREATE DATABASE project201";
     echo "Table created successfully";
     }
     }
-    else{
-        echo "Database exist!";
+
+
         try{
 $conn = new PDO("mysql:host=localhost;dbname=project201",$username,$pass);
 $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
@@ -41,5 +41,5 @@ catch(PDOException $e)
         
 
     }
-    }
+    
 
