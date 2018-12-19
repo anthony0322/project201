@@ -11,14 +11,14 @@ if($conn->select_db('project201') === false){
     $conn->exec($sql);
     echo "Database created successfully<br>";
     }
-}
- $sql = "CREATE TABLE MyGuests (
-    id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY, 
-    firstname VARCHAR(30) NOT NULL,
-    lastname VARCHAR(30) NOT NULL,
-    email VARCHAR(50),
-    reg_date TIMESTAMP
-    )";
+
+ // $sql = "CREATE TABLE MyGuests (
+ //    id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY, 
+ //    firstname VARCHAR(30) NOT NULL,
+ //    lastname VARCHAR(30) NOT NULL,
+ //    email VARCHAR(50),
+ //    reg_date TIMESTAMP
+ //    )";
 
     // use exec() because no results are returned
     $conn->exec($sql);
