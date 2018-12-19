@@ -1,3 +1,6 @@
+ <?php 
+include 'css-link.php';
+  ?>
  <!-- Navigation -->
     <nav class="navbar navbar-expand-lg bg-secondary fixed-top text-uppercase" id="mainNav">
       <div class="container">
