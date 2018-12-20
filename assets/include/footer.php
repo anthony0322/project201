@@ -5,19 +5,19 @@
     <li class="animated zoomIn">
       <div class="back"></div>
       <div class="icon">
-        <i class="fa fa-facebook"></i>
+        <a href="https://www.facebook.com/projecttwozeroone/" style="color: rgb(14,1,36)" target="_blank"><i class="fa fa-facebook"></i></a>
       </div>
     </li>
     <li class="animated zoomIn delayone">
       <div class="back"></div>
       <div class="icon">
-        <i class="fa fa-github"></i>
+        <a href="#Github" style="color: rgb(14,1,36)" target="_blank"><i class="fa fa-github"></i></a>
       </div>
     </li>
     <li class="animated zoomIn delaytwo">
       <div class="back"></div>
       <div class="icon">
-        <i class="fa fa-instagram"></i>
+        <a href="#Instagram" style="color: rgb(14,1,36)" target="_blank"><i class="fa fa-instagram"></i></a>
       </div>
     </li>
     
@@ -25,7 +25,7 @@
     <li class="animated zoomIn delayfive">
       <div class="back"></div>
       <div class="icon">
-        <i class="fa fa-google-plus"></i>
+        <a href="#Gmail" style="color: rgb(14,1,36)" target="_blank"><i class="fa fa-google-plus"></i></a>
       </div>
     </li>
   </ul>
