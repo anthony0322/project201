@@ -173,6 +173,12 @@ font-size: 30px;
 .msg{
 	margin-top: 20px;
 }
+.aboutDev{
+	font-family: 'Nexa Light Regular';
+	font-size: 14px;
+	text-align: center;
+	display: block;
+}
 @font-face {
 font-family: 'Nexa Light Regular';
 font-style: normal;
