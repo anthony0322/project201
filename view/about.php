@@ -22,7 +22,7 @@
 <div class="bodyColor">
 
 
-    <h1 class="text-center" style="text-transform:uppercase;">Project201 TEAM</h1>
+    <h1 class="text-center" style="text-transform:uppercase; letter-spacing: 10 px; font-family: fantasy;">Project201 TEAM</h1>
 
 	
 	<div class="container">

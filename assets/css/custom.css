@@ -172,3 +172,15 @@ font-size: 30px;
 .msg{
 	margin-top: 20px;
 }
+@font-face {
+font-family: 'Nexa Light Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Nexa Light Regular'), url('../font/nexa-light-webfont.woff') format('woff');
+}
+@font-face {
+font-family: 'Nexa Light Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Nexa Bold Regular'), url('../font/nexa-bold-webfont.woff') format('woff');
+}
