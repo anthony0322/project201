@@ -25,7 +25,7 @@
     <li class="animated zoomIn delayfive">
       <div class="back"></div>
       <div class="icon">
-        <a href="https://prject201.cca@gmail.com" style="color: rgb(14,1,36)" target="_blank"><i class="fa fa-google-plus"></i></a>
+        <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=project201.cca@gmail.com&su=SUBJECT&body=BODY&tf=1" style="color: rgb(14,1,36)" target="_blank"><i class="fa fa-google-plus"></i></a>
       </div>
     </li>
   </ul>
