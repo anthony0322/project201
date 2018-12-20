@@ -24,15 +24,15 @@
 		<form method="POST" action="../controller/contactController.php">
 			
 				<div class="form-group" align="left">
-				    <label>Name</label>
+				    <label style='font-family: Century Gothic; font-size: 20px;'>Name</label>
 				    <input type="text" class="form-control"  aria-describedby="emailHelp" placeholder="Enter your name" name="senderName" required>
 				  </div>
 				  <div class="form-group" align="left">
-				    <label>Email address</label>
+				    <label style='font-family: Century Gothic; font-size: 20px;'>Email address</label>
 				    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" name="senderEmail" required>
 				  </div>
 				  <div class="form-group" align="left">
-				    <label for="exampleInputPassword1">Message</label>
+				    <label style='font-family: Century Gothic; font-size: 20px;'>Message</label>
 				    <textarea class="form-control" placeholder="message" name="senderMessage"></textarea>
 				  </div>
 				  <button type="submit" class="btn btn-primary" name="send">Send</button>
