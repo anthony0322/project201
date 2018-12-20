@@ -42,7 +42,8 @@
 	<span class="aboutDev">
 	Hi there! You can call me Anthony 😉, Let me introduce myself to you.
 First of all, I want to tell you that I am very passionate in all aspect of programming. I have very creative mind and that's make me awesome! If you want to chitchat with me just add me on facebook.
- https://www.facebook.com/anthony0322
+<br><br>
+ <a href="https://www.facebook.com/anthony0322">https://www.facebook.com/anthony0322</a>
 	</span>
 	</div>
 	
