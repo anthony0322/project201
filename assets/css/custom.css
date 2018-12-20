@@ -180,8 +180,13 @@ font-weight: normal;
 src: local('Nexa Light Regular'), url('../font/nexa-light-webfont.woff') format('woff');
 }
 @font-face {
-font-family: 'Nexa Light Regular';
+font-family: 'Nexa Bold Regular';
 font-style: normal;
 font-weight: normal;
-src: local('Nexa Bold Regular'), url('../font/nexa-bold-webfont.woff') format('woff');
+src: local('Nexa Bold Regular'), url('../font/Nexa Bold.woff') format('woff');
+}@font-face {
+font-family: 'BigNoodleTitling';
+font-style: normal;
+font-weight: normal;
+src: local('BigNoodleTitling'), url('../font/BigNoodleTitling.ttf.woff') format('woff');
 }
