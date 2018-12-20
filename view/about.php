@@ -35,7 +35,7 @@
 	<div class="team-front">
 	<img src="../assets/images/anthony.jpg" class="img-fluid" />
 	<h3 class="aboutDevName">John Anthony Almario</h3>
-	<p>Fullstack Developer</p>
+	<p>Back End Developer</p>
 	</div>
 	
 	<div class="team-back">
@@ -58,7 +58,7 @@ First of all, I want to tell you that I am very passionate in all aspect of prog
 	<div class="team-front">
 	<img src="../assets/images/harvey.jpg" class="img-fluid" />
 	<h3 class="aboutDevName">Harvey Quinto</h3>
-	<p>Mob and Web developer</p>
+	<p>Fullstack Developer</p>
 	</div>
 	
 	<div class="team-back">
