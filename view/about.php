@@ -3,6 +3,7 @@
 <html>
 <head>
 	<title>About</title>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="../assets/css/bootstrap/footer-css.css">
 	<link rel='stylesheet' type='text/css' href='../assets/css/bootstrap/bootstrap.css'>
 	<link rel='stylesheet' type='text/css' href='../assets/css/bootstrap/bootstrap.min.css'>
@@ -40,9 +41,16 @@
 	
 	<div class="team-back">
 	<span class="aboutDev">
+		
+    
 	Hi there! You can call me Anthony 😉, Let me introduce myself to you.
 First of all, I want to tell you that I am very passionate in all aspect of programming. I have very creative mind and that's make me awesome! If you want to chitchat with me just add me on facebook.
- https://www.facebook.com/anthony0322
+<br>
+   https://www.facebook.com/anthony0322
+
+<br><br>
+ <a href="https://www.facebook.com/anthony0322">https://www.facebook.com/anthony0322</a>
+
 	</span>
 	</div>
 	
