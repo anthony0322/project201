@@ -16,5 +16,16 @@
 </head>
 <body>
 	
+
+
+
+
+
+
+	<footer>
+	<div class = "col-md-12 footer-contact">
+	<?php include '../assets/include/footer.php'; ?>	
+	</div>
+</footer>
 </body>
 </html>

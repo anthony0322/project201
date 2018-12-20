@@ -22,7 +22,7 @@
 <div class="bodyColor">
 
 
-    <h1 class="text-center">Team Design Section with Pure CSS Effect</h1>
+    <h1 class="text-center" style="text-transform:uppercase;">Project 201 TEAM</h1>
 
 	
 	<div class="container">
