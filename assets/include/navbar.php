@@ -7,9 +7,11 @@
  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
+
     <nav class="navbar navbar-expand-lg bg-secondary text-uppercase" id="mainNav">
+
       <div class="container">
-        <a class="navbar-brand js-scroll-trigger navbarcolor" href="index.php">Project201</a>
+        <a class="navbar-brand js-scroll-trigger navbarcolor" href="index.php"><img src="../assets/images/logo.png"></a>
       <!--   <button class="navbar-toggler navbar-toggler-right text-uppercase bg-primary text-white rounded" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation" style="">
           Menu
           <i class="fas fa-bars"></i>
