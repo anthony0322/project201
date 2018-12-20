@@ -1,4 +1,6 @@
  <!-- Navigation -->
+  <link rel='stylesheet' type='text/css' href='../assets/css/custom.css'>
+
 <script src="../assets/js/bootstrap.js"></script>
 <script src="../assets/js/bootstrap-bundle.js"></script>
 <script src="../assets/js/bootstrap.min.js"></script>
@@ -13,7 +15,7 @@
           <i class="fas fa-bars"></i>
         </button> -->
         <div class="dropdown">
-    <button class="btn btn-primary dropdown-toggle navbar-toggler navbar-toggler-right text-uppercase bg-primary text-white rounded"  type="button" data-toggle="dropdown">MENU
+    <button class="btn btn-primary navbar-toggler navbar-toggler-right text-uppercase bg-primary text-white rounded"  type="button" data-toggle="dropdown">MENU
     <span class="caret"></span></button>
     <ul class="dropdown-menu"  style="background-color: #0e0124;">
       <li style="margin-left: 30px;"><a href="../view/home.php" style="color:white;">HOME</a></li>
