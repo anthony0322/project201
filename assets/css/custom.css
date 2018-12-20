@@ -174,11 +174,18 @@ font-size: 30px;
 	margin-top: 20px;
 }
 .aboutDev{
-	font-family: 'Nexa Light Regular';
-	font-size: 14px;
+	font-family: 'Nexa Bold Regular';
+	font-size: 15px;
 	text-align: center;
 	display: block;
 }
+.aboutDevName
+{
+	font-family: BigNoodleTitling;
+	letter-spacing: 5px;
+	font-size: 20px;
+}
+
 @font-face {
 font-family: 'Nexa Light Regular';
 font-style: normal;
