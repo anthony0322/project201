@@ -11,7 +11,7 @@
     <nav class="navbar navbar-expand-lg bg-secondary text-uppercase" id="mainNav">
 
       <div class="container">
-        <a class="navbar-brand js-scroll-trigger navbarcolor" href="index.php"><img src="../assets/images/logo.png"></a>
+        <a class="navbar-brand js-scroll-trigger navbarcolor" href="index.php"><img class="hoverImg" src="../assets/images/logo.png"></a>
       <!--   <button class="navbar-toggler navbar-toggler-right text-uppercase bg-primary text-white rounded" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation" style="">
           Menu
           <i class="fas fa-bars"></i>

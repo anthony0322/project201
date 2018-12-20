@@ -190,6 +190,10 @@ font-size: 30px;
 	font-size: 20px;
 }
 
+.hoverImg:hover{
+	
+	opacity: .5
+}
 
 @font-face {
 font-family: 'Nexa Light Regular';
