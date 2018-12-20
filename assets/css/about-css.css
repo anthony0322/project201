@@ -86,6 +86,12 @@ h1
 	border-color:#777;
 	transition:0.5s;
 }
+.aboutDev{
+	font-family: monospace;
+	font-size: 14px;
+	text-align: center;
+	display: block;
+}
 
 /*our-team-main*/
 

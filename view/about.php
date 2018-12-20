@@ -39,11 +39,10 @@
 	</div>
 	
 	<div class="team-back">
-	<span>
-	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
-	natoque penatibus et magnis dis parturient montes,
-	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
-	natoque.
+	<span class="aboutDev">
+	Hi there! You can call me Anthony 😉, Let me introduce myself to you.
+First of all, I want to tell you that I am very passionate in all aspect of programming. I have very creative mind and that's make me awesome! If you want to chitchat with me just add me on facebook.
+ https://www.facebook.com/anthony0322
 	</span>
 	</div>
 	
@@ -62,11 +61,10 @@
 	</div>
 	
 	<div class="team-back">
-	<span>
-	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
-	natoque penatibus et magnis dis parturient montes,
-	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
-	natoque.
+	<span class="aboutDev">
+	Hello there! I'm Harvey! 22 years old and passionate in building projects for the country's economy! I love Jesus! I love coffee!
+	https://www.facebook.com/payathought
+
 	</span>
 	</div>
 	
