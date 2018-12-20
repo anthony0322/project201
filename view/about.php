@@ -22,7 +22,7 @@
 <div class="bodyColor">
 
 
-    <h1 class="text-center" style="text-transform:uppercase;">Project 201 TEAM</h1>
+    <h1 class="text-center" style="text-transform:uppercase;">Project201 TEAM</h1>
 
 	
 	<div class="container">
@@ -33,9 +33,9 @@
 	<div class="our-team-main">
 	
 	<div class="team-front">
-	<img src="http://placehold.it/110x110/9c27b0/fff?text=Dilip" class="img-fluid" />
-	<h3>Dilip Kevat</h3>
-	<p>Web Designer</p>
+	<img src="../assets/images/anthony.jpg" class="img-fluid" />
+	<h3>John Anthony Almario</h3>
+	<p>Fullstack Developer</p>
 	</div>
 	
 	<div class="team-back">
@@ -56,9 +56,9 @@
 	<div class="our-team-main">
 	
 	<div class="team-front">
-	<img src="http://placehold.it/110x110/336699/fff?text=Dilip" class="img-fluid" />
-	<h3>Dilip Kevat</h3>
-	<p>Web Designer</p>
+	<img src="../assets/images/harvey.jpg" class="img-fluid" />
+	<h3>Harvey Quinto</h3>
+	<p>Mob and Web developer</p>
 	</div>
 	
 	<div class="team-back">
