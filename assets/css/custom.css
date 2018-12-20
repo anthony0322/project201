@@ -163,3 +163,12 @@ input::-webkit-input-placeholder {
 	right: 20px;
 	top: 10px;
 }
+
+.msgmargin{
+padding-top: 55px;
+font-size: 30px;
+}
+
+.msg{
+	margin-top: 20px;
+}

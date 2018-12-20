@@ -1,7 +1,14 @@
 <?php 
+
 if(isset($_POST['send'])){
 	insertMessage($_POST['senderName'],$_POST['senderEmail'],$_POST['senderMessage']);
 }
+
+if (isset($_GET['delete'])) {
+	deleteMessage($_GET['id']);
+}
+
+
 function insertMessage($name, $email, $message){
 include '../database/connection.php';
 $data =[
@@ -28,6 +35,17 @@ $statement->execute();
 $messages = $statement->fetchAll();
 
 }
+
+
+function deleteMessage($id){
+include '../database/connection.php';
+
+$query = "DELETE FROM messages WHERE id=".$id;
+$statement = $conn->prepare($query);
+$statement->execute();
+	header("location: ../view/messages.php");
+}
+
 
 
 
