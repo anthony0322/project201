@@ -41,22 +41,26 @@ display: block;
 .text1{
 	margin-top: 50px;
 	color: white;
-	font-size: 200%;
+	font-size: 500%;
 	font-weight: 700;
-	letter-spacing: 8px;
+	letter-spacing: 20px;
 	margin-bottom: 20px;
 	position: relative;
 	animation:text 3s 1;
 	background: #060015;
 	margin-right: 10px;
 	margin-left: 10px;
+	font-family: BigNoodleTitling;
 
 	
 }
 .text2
 {
 	font-size: 30px;
-	color: #fff;
+	color: #9f0c5d;
+	letter-spacing: 15px;
+	font-family: Nexa Light Regular;
+
 }
 @keyframes text {
 	0%{
@@ -185,6 +189,7 @@ font-size: 30px;
 	letter-spacing: 5px;
 	font-size: 20px;
 }
+
 
 @font-face {
 font-family: 'Nexa Light Regular';

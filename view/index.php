@@ -28,9 +28,12 @@
 			
 			<div class="col-md-12 marginTop">
 				<div class="textAnim">
-					<span class="text1">WELCOME TO</span>
+					<span class="text1" >WELCOME TO</span>
 					<span class="text2">PROJECT 201</span>
+					<br>
+					<a class="btn btn-outline-primary" href="home.php">Learn more</a>
 				</div>
+
 			</div>
 		</div>
 	</div>
